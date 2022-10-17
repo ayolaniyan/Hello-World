@@ -1,2 +1,8 @@
-# Hello-World
+# Hello World
 HELLO WORLD
+
+----
+
+Lesson Summary
+
+-----
